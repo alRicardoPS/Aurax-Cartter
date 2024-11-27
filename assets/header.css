@@ -50,6 +50,10 @@
     background-color: var(--branco);
 }
 
+li.opções__item :: marker{
+    display: none;
+}
+
 .opções__item ::marker {
     display: none;
 }
