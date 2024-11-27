@@ -46,8 +46,12 @@
 
 .lista-menu__titulo,
 .lista-menu__item {
-    padding: 0.5em;
+    padding: 1em;
     background-color: var(--branco);
+}
+
+.lista-menu__item ::marker {
+    display: none;
 }
 
 .lista-menu__titulo {
