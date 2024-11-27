@@ -1,13 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Português',
+    'Qual é o uso do porquê?',
+    'Como substantivo'
+)
+
+criaCartao(
+    'Química',
+    'Quantos carbonos tem em um butano?',
+    '4 (Quatro)'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que é uma depressão geográfica?',
+    'E uma área mais baixa em relação às áreas ao redor'
 )
 
 criaCartao(
@@ -17,7 +23,20 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Norueguês',
+    'Como se diz oi em Norueguês?',
+    'Hallo ou Hei'
 )
+
+criaCartao(
+    'Geral',
+    'Quem foi conhecido por sua capacidade de testar aparelhos telefônicos?',
+    'Gabriela'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual é a raiz quadrada de 256?',
+    '16'
+)
+
