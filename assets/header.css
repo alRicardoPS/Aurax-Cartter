@@ -50,7 +50,7 @@
     background-color: var(--branco);
 }
 
-.lista-menu__item ::marker {
+.opções__link ::marker {
     display: none;
 }
 
