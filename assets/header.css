@@ -50,7 +50,7 @@
     background-color: var(--branco);
 }
 
-.opções__link ::marker {
+.opções__item ::marker {
     display: none;
 }
 
